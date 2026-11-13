@@ -28,4 +28,3 @@ int main() {
 
     return 0;
 }
-```[cite: 4]
